@@ -1,2 +1,2 @@
 # Netflix_LandingPage
-Created with CodeSandbox
+Created Netflix landing page with HTML and CSS
